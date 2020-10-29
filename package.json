@@ -23,6 +23,12 @@
     "url": "https://github.com/Yoona8/starter-npm-scripts/issues"
   },
   "homepage": "https://github.com/Yoona8/starter-npm-scripts#readme",
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "not IE_Mob 11",
+    "maintained node versions"
+  ],
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "browser-sync": "^2.26.12",
